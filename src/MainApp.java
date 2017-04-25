@@ -8,6 +8,11 @@ public class MainApp {
         System.out.println("Dr. Syntax in da house");
         System.out.println("More changes made by Antonella");
 
-	System.out.println("Partay over here!!!");
+
+        System.out.println("Partay over here!!!");
+
+        System.out.println("adding some more text to show merge conflicts");
+
+
     }
 }
